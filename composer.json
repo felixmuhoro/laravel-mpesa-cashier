@@ -1,6 +1,6 @@
 {
     "name": "felixmuhoro/laravel-mpesa-cashier",
-    "description": "M-Pesa subscription billing for Laravel \u2014 monthly/yearly plans, trials, grace periods, invoices.",
+    "description": "M-Pesa subscription billing for Laravel — monthly/yearly plans, trials, grace periods, invoices.",
     "keywords": [
         "laravel",
         "mpesa",

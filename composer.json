@@ -1,7 +1,13 @@
 {
     "name": "felixmuhoro/laravel-mpesa-cashier",
-    "description": "M-Pesa subscription billing for Laravel — monthly/yearly plans, trials, grace periods, invoices.",
-    "keywords": ["laravel", "mpesa", "subscription", "billing", "cashier"],
+    "description": "M-Pesa subscription billing for Laravel \u2014 monthly/yearly plans, trials, grace periods, invoices.",
+    "keywords": [
+        "laravel",
+        "mpesa",
+        "subscription",
+        "billing",
+        "cashier"
+    ],
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -26,18 +32,18 @@
     },
     "autoload": {
         "psr-4": {
-            "FelixMuhoro\MpesaCashier\\": "src/"
+            "FelixMuhoro\\MpesaCashier\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "FelixMuhoro\MpesaCashier\Tests\\": "tests/"
+            "FelixMuhoro\\MpesaCashier\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "FelixMuhoro\MpesaCashier\MpesaCashierServiceProvider"
+                "FelixMuhoro\\MpesaCashier\\MpesaCashierServiceProvider"
             ]
         }
     },
